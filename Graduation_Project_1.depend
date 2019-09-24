@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1545141042 source:f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\main.cpp
+	"DATASET.h"
+	"InputOutput.h"
+	"NeuralNetwork.h"
+	"CHARGEN.h"
+
+1543676856 f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\dataset.h
+	"Matrix.h"
+
+1545140724 f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\matrix.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<math.h>
+
+1543677272 f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\inputoutput.h
+	"Matrix.h"
+
+1545140724 f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\neuralnetwork.h
+	"Matrix.h"
+	"Dictionary.h"
+	"layer.h"
+
+1545140158 f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\dictionary.h
+	<iostream>
+	<string>
+	<process.h>
+	<conio.h>
+	<list>
+	<vector>
+
+1543877008 f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\layer.h
+	<string>
+
+1545141166 source:f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\neuralnetwork.cpp
+	"NeuralNetwork.h"
+	"Activations.h"
+	<fstream>
+	"CharGenerate.h"
+
+1545138329 f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\activations.h
+	"Matrix.h"
+
+1545141166 f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\chargenerate.h
+	<string>
+
+1545141080 f:\college\4th year - 1st semster\graduation projcet\codes\graduation_project_1\chargen.h
+
+1545141168 source:c:\users\delta\desktop\graduation_project_1\neuralnetwork.cpp
+	"NeuralNetwork.h"
+	"Activations.h"
+	<fstream>
+	"CharGenerate.h"
+
+1545140726 c:\users\delta\desktop\graduation_project_1\neuralnetwork.h
+	"Matrix.h"
+	"Dictionary.h"
+	"layer.h"
+
+1545140726 c:\users\delta\desktop\graduation_project_1\matrix.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<math.h>
+
+1545140160 c:\users\delta\desktop\graduation_project_1\dictionary.h
+	<iostream>
+	<string>
+	<process.h>
+	<conio.h>
+	<list>
+	<vector>
+
+1543877008 c:\users\delta\desktop\graduation_project_1\layer.h
+	<string>
+
+1545138330 c:\users\delta\desktop\graduation_project_1\activations.h
+	"Matrix.h"
+
+1545141168 c:\users\delta\desktop\graduation_project_1\chargenerate.h
+	<string>
+
+1545294227 source:f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\main.cpp
+	"DATASET.h"
+	"InputOutput.h"
+	"NeuralNetwork.h"
+
+1543676856 f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\dataset.h
+	"Matrix.h"
+
+1545140726 f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\matrix.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<math.h>
+
+1543677272 f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\inputoutput.h
+	"Matrix.h"
+
+1545140726 f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\neuralnetwork.h
+	"Matrix.h"
+	"Dictionary.h"
+	"layer.h"
+
+1545140160 f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\dictionary.h
+	<iostream>
+	<string>
+	<process.h>
+	<conio.h>
+	<list>
+	<vector>
+
+1543877008 f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\layer.h
+	<string>
+
+1545141168 source:f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\neuralnetwork.cpp
+	"NeuralNetwork.h"
+	"Activations.h"
+	<fstream>
+	"CharGenerate.h"
+
+1545138330 f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\activations.h
+	"Matrix.h"
+
+1545141168 f:\previously\computer and control\second year first term\gradproj 1\graduation_project_1\chargenerate.h
+	<string>
+
